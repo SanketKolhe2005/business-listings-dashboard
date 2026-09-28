@@ -839,8 +839,6 @@ Axios
 Recharts
 ```
 
----
-
 ## License
 
 This project was developed for educational and internship assignment purposes.
