@@ -106,7 +106,6 @@ The application displays:
 - MySQL Workbench
 
 ---
-
 ## Project Structure
 
 ```text
@@ -118,6 +117,20 @@ business-listings-dashboard/
 │   ├── models.py
 │   └── requirements.txt
 │
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── App.css
+│   │   ├── api.js
+│   │   └── main.jsx
+│   │
+│   ├── public/
+│   │
+│   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   └── vite.config.js
+│
 ├── database/
 │   └── business_dashboard.sql
 │
@@ -126,20 +139,8 @@ business-listings-dashboard/
 │   ├── generate_data.py
 │   └── upload_csv.py
 │
-├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── api.js
-│   └── main.jsx
-│
 ├── .gitignore
-├── README.md
-├── index.html
-├── package.json
-├── package-lock.json
-└── vite.config.js
-````
-
+└── README.md
 ---
 
 # System Architecture
