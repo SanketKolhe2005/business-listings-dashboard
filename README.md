@@ -831,7 +831,4 @@ Recharts
 
 This project was developed for educational and internship assignment purposes.
 
-````
-
-
-rather than falsely documenting a `frontend/` directory.
+```
