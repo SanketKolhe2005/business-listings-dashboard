@@ -804,7 +804,21 @@ The database dump is available at:
 database/business_dashboard.sql
 ```
 
----
+
+## Demo Video
+
+3–5 minute demonstration of the Business Listings Dashboard.
+
+The video covers:
+- Project architecture
+- Data collection approach
+- FastAPI APIs
+- MySQL database
+- React dashboard
+- Charts and reports
+
+[▶ Watch Demo Video](https://drive.google.com/file/d/1lpcnWQ_v_DaT6FKEVWVzd7MyPO3rDTKX/view?usp=sharing)
+
 
 # Author
 
