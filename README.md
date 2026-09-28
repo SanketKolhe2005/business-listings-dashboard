@@ -139,9 +139,10 @@ business-listings-dashboard/
 │   ├── generate_data.py
 │   └── upload_csv.py
 │
-├── .gitignore
 └── README.md
 ---
+
+```
 
 # System Architecture
 
