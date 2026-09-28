@@ -837,7 +837,6 @@ SQLAlchemy
 Pandas
 Axios
 Recharts
-```
 
 ## License
 
