@@ -1,8 +1,5 @@
-Yes. Based on the **actual files you showed on GitHub**—`backend`, `database`, `scraper`, React/Vite files, `businesses.csv`, and `business_dashboard.sql`—use this README.
 
-**Delete the current `README.md` and paste this entire content:**
 
-````markdown
 # Business Listings Dashboard
 
 A full-stack Business Listings Dashboard developed using **React.js, FastAPI, MySQL, Python, and Recharts**.
