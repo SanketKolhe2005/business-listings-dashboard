@@ -12,6 +12,7 @@ This project was developed as part of a **Python Development Internship assignme
 
 The Business Listings Dashboard provides a centralized interface to analyze business listings based on:
 
+
 - City
 - Category
 - Data Source
